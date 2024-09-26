@@ -1,6 +1,8 @@
 # bert-large-legal-sentence-classification
 ### Check [HuggingFace repository](https://huggingface.co/samkas125/bert-large-legal-sentence-classification) to clone and test the model.
 
+### Check out [Evaluating Accuracy of Sentence Classification in Legal Documents using Transformers](https://github.com/samkas125/legal-sentence-classification/sent_class_transformer.pdf)
+
 ## Model Description
 
 [**bert-large-legal-sentence-classification**](https://huggingface.co/samkas125/bert-large-legal-sentence-classification) is a finetuned `bert-large-cased` model that is ready to use for legal sentence classification into rhetorical roles. It was fine-tuned using a repository of [analyzed disability-claim decisions](https://github.com/vernrwalker/VetClaims-JSON/) issued by the Board of Veterans' Appeals ("BVA") of the U.S. Department of Veterans Affairs.
