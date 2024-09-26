@@ -1,7 +1,7 @@
 # bert-large-legal-sentence-classification
 ### Check [HuggingFace repository](https://huggingface.co/samkas125/bert-large-legal-sentence-classification) to clone and test the model.
 
-### Check out [Evaluating Accuracy of Sentence Classification in Legal Documents using Transformers](https://github.com/samkas125/legal-sentence-classification/sent_class_transformer.pdf)
+### The research paper is available [here](https://github.com/user-attachments/files/17140647/sent_class_transformer.pdf) for more details.
 
 ## Model Description
 
